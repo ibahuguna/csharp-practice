@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, I am restarting my coding journey!");
+﻿Console.WriteLine("My comeback journey starts today!");
+Console.WriteLine("Day 1 completed.");
